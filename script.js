@@ -9,7 +9,7 @@
     const loadMoviesButton = document.querySelector("#more-movies-btn");
 
 //other constants/variables:
-    const apiKey = "5ed7c7d5b80ab11ede12e4bea53f68ed"
+    const apiKey = "#"
     var currentApiPage = 1;
     var currentGridItem = 2;
     let avgRating = 0;
