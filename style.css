@@ -1,1 +1,97 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
 
+body{
+    background:rgba(0, 0, 0, 0.767);
+}
+
+#flixterTitle {
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.averageRating {
+    color:white;
+}
+
+.movieTitle {
+    color:white;
+}
+
+.movie-poster {
+    width: 200px;
+}
+
+
+#movieResults {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 300px);
+    grid-gap: 30px;
+}
+
+
+.grid-item {
+    display: block;
+    margin: 30px;
+}
+
+.moreButtonDiv {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+#more-movies-btn {
+    background: black;
+    color: white;
+    width: 160px;
+    height: 50px;
+    font-family: arial;
+}
+
+.movie-poster {
+    width: 100%;
+    height:auto;
+}
+
+#searchBar {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    width: 70%;
+    margin-top: 30px;
+}
+
+#header {
+    background: black;
+    padding: 30px;
+}
+
+#movieSearch{
+    margin: auto;
+}
+
+#searchButton {
+    margin: auto;
+    background: grey;
+    color: white;
+    font-family: arial;
+}
+
+
+#searchDiv {
+    display:flex;
+}
+
+#homeButton {
+    background: grey;
+    color: white;
+    font-family: arial;
+}
