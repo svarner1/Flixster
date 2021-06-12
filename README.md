@@ -30,6 +30,7 @@ Deployed Application (optional): n/a
 ### Walkthrough Video
 ![](https://i.imgur.com/hID7TYU.gif)
 
+My Gif: https://i.imgur.com/hID7TYU.gif
 
 ### Reflection
 
