@@ -38,15 +38,16 @@ My Gifs:
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
-  I believe that the topics in the labs did prepare me for the weekly assignment. Especially the third lab. From this lab, I learned how to fetch data from an API 
-  and how to add data to a website.
+  *  I believe that the topics in the labs did prepare me for the weekly assignment. Especially the third lab. From this
+     lab, I learned how to fetch data from an API and how to add data to a website.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
-  If I had more time, I would have created a function that made the "load more movies" button diasappear after the search results appeared.
+  * If I had more time, I would have created a function that made the "load more movies" button diasappear after the
+    search results appeared.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
-  Going forward, I will start on the assignments earlier. I felt a little rushed, but it was also the first week. I believe I did well all things considered!
-  My project demo went well because I confidently showed my peers what I did, and I received great feedback.
+  * Going forward, I will start on the assignments earlier. I felt a little rushed, but it was also the first week. I       believe I did well all things considered! My project demo went well because I confidently showed my peers what I 
+    did, and I received great feedback.
 
 ### Open-source libraries used
 
