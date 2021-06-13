@@ -28,10 +28,13 @@ Deployed Application (optional): n/a
   - If a movie's rating was 0 (which I assumed meant that this was not a real rating), I set the movie's rating as "rating not available"
 
 ### Walkthrough Video
-![](https://i.imgur.com/hID7TYU.gif)
-
-My Gif: https://i.imgur.com/hID7TYU.gif
-
+My Gifs: 
+  General function/layout of the site:
+    https://i.imgur.com/hID7TYU.gif
+  Site responsiveness:
+    https://i.imgur.com/5QdOOtX.gif
+  My stretch feature:
+    https://i.imgur.com/ogPIDTg.gif
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
