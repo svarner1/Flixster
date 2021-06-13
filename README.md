@@ -29,12 +29,12 @@ Deployed Application (optional): n/a
 
 ### Walkthrough Video
 My Gifs: 
-  General function/layout of the site:
-    https://i.imgur.com/hID7TYU.gif
-  Site responsiveness:
-    https://i.imgur.com/5QdOOtX.gif
-  My stretch feature:
-    https://i.imgur.com/ogPIDTg.gif
+  - General function/layout of the site:
+    - https://i.imgur.com/hID7TYU.gif
+  - Site responsiveness:
+    - https://i.imgur.com/uoasdg2.gif
+  - My stretch feature:
+    - https://i.imgur.com/ogPIDTg.gif
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
